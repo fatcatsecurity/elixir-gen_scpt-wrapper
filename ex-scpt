@@ -1,0 +1,82 @@
+defmodule ExScpt do
+  def abort(Socket,Assoc) do
+    stub
+  end
+
+  def open() do
+    stub
+
+  def close(Socket) do
+    stub
+  end
+
+  def connect(Socket,SockAddr,Opts) do
+    stub
+  end
+
+  def connect(Socket,SockAddr,Opts,Timeout) do
+    stub
+  end
+
+  def connect(Socket, Addr, Port, Opts) do
+    stub
+  end
+
+  def connect_init(Socket,SockAddr,Opts) do
+    stub
+  end
+
+  def connect_init(Socket,SockAddr,Opts) do
+    stub
+  end
+
+  def connect_init(Socket,Addr,Port,Opts) do
+    stub
+  end
+
+  def connect_init(Socket,SockAddrs,Opts) do
+    stub
+  end
+
+  def connectx_init(Socket,Addrs,Port,Opts) do
+    stub
+  end
+
+  def controlling_process(Socket,Pid) do
+    stub
+  end
+
+  def eof(Socket,Assoc) do
+    stub
+  end
+
+  def error_string(ErrorNumber) do
+    stub
+  end
+
+  def listen(Socket,IsServer) do
+    stub
+  end
+
+  def listen(Socket,Backlog) do
+    stub
+  end
+
+  def peeloff(Socket,Assoc) do
+    stub
+  end
+
+  def recv(Socket) do
+    stub
+  end
+
+  def send(Socket,SndRcvInfo,Data) do
+    stub
+  end
+
+  def send(Socket,Assoc,Stream,Data) do
+    stub
+  end
+
+  def 
+end
